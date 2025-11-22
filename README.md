@@ -1,6 +1,6 @@
 # Vehicle Detection and Counting in Photos and Videos
 
-The system:
+##The system:
 - Detects vehicles in each frame using YOLOv8.
 - Masks out irrelevant regions of the scene with binary masks.
 - Tracks objects across frames with the SORT algorithm.
@@ -13,4 +13,4 @@ The system:
 - `src/detection and tracking with videos(total counter).py` – detection + tracking + total vehicle counter detected.
 - `src/detection and tracking with videos 2.0(counter for each vehicle).py` – detection + tracking + total vehicle counter detected for each category of vehicle.
 
-for the data used in the project and
+For the data used in the project refer to this link
