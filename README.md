@@ -15,3 +15,7 @@
 - `src/main` - used for the training of the dataset
 
 For the data used in the project refer to this link
+https://drive.google.com/drive/folders/1XURZidYYk7WnojF2F7bnlGlHmcYG750I?usp=sharing
+
+For the trained models did in this project
+https://drive.google.com/drive/folders/1ZJqIdbocwiEd8-72kxsimNePbOKrNVYx?usp=sharing
