@@ -1,0 +1,9 @@
+path: C:\Users\Rudimental\OneDrive\Desktop\nuovo dataset\train
+train: images
+val: images
+
+names:
+  0: bus
+  1: car
+  2: motorcycle
+  3: truck
