@@ -1,4 +1,4 @@
-path: C:\Users\Rudimental\OneDrive\Desktop\nuovo dataset\train
+path: "path to the dataset for the training"
 train: images
 val: images
 
