@@ -12,5 +12,6 @@
 - `src/detection with video.py` – detection on videos.
 - `src/detection and tracking with videos(total counter).py` – detection + tracking + total vehicle counter detected.
 - `src/detection and tracking with videos 2.0(counter for each vehicle).py` – detection + tracking + total vehicle counter detected for each category of vehicle.
+- `src/main` - used for the training of the dataset
 
 For the data used in the project refer to this link
